@@ -13,7 +13,7 @@ To investigate how air pollutants like PM2.5 and CO affect overall AQI levels us
   - Fixed Effects Regression
   - Random Effects Regression
   - Hausman Test
-- Data Source: Custom panel dataset for 5 Indian cities (2000–2023)
+- Data Source: Custom panel dataset for 5 Indian cities
 
 ## Key Results
 
